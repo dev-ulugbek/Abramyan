@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Abramyan\While_\While_\bin\Debug\net6.0\While_.exe
+C:\Users\User\Desktop\Abramyan\While_\While_\bin\Debug\net6.0\While_.deps.json
+C:\Users\User\Desktop\Abramyan\While_\While_\bin\Debug\net6.0\While_.runtimeconfig.json
+C:\Users\User\Desktop\Abramyan\While_\While_\bin\Debug\net6.0\While_.dll
+C:\Users\User\Desktop\Abramyan\While_\While_\bin\Debug\net6.0\While_.pdb
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\While_.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\While_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\While_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\While_.AssemblyInfo.cs
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\While_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\While_.dll
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\refint\While_.dll
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\While_.pdb
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\While_.genruntimeconfig.cache
+C:\Users\User\Desktop\Abramyan\While_\While_\obj\Debug\net6.0\ref\While_.dll

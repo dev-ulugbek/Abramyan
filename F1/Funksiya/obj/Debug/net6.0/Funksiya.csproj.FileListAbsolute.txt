@@ -1,0 +1,15 @@
+D:\Lessons\Funksiya\Funksiya\bin\Debug\net6.0\Funksiya.exe
+D:\Lessons\Funksiya\Funksiya\bin\Debug\net6.0\Funksiya.deps.json
+D:\Lessons\Funksiya\Funksiya\bin\Debug\net6.0\Funksiya.runtimeconfig.json
+D:\Lessons\Funksiya\Funksiya\bin\Debug\net6.0\Funksiya.dll
+D:\Lessons\Funksiya\Funksiya\bin\Debug\net6.0\Funksiya.pdb
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\Funksiya.csproj.AssemblyReference.cache
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\Funksiya.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\Funksiya.AssemblyInfoInputs.cache
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\Funksiya.AssemblyInfo.cs
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\Funksiya.csproj.CoreCompileInputs.cache
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\Funksiya.dll
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\refint\Funksiya.dll
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\Funksiya.pdb
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\Funksiya.genruntimeconfig.cache
+D:\Lessons\Funksiya\Funksiya\obj\Debug\net6.0\ref\Funksiya.dll

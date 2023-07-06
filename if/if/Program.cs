@@ -14,6 +14,14 @@ internal class Program
         }
         else { Console.WriteLine("Answer is = "+ a); } */
 
+        // if 1
+        Console.Write("Enter N: ");
+        int n = int.Parse(Console.ReadLine()!);
+        if (n > 0)
+            n++;
+        Console.WriteLine(n);
+
+
 
         /* 2  int a;
         Console.Write("Enter a number:  ");
